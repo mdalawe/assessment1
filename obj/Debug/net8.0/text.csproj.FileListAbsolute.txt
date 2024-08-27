@@ -1,0 +1,14 @@
+C:\Users\Muhammed\Documents\C#\text\bin\Debug\net8.0\text.exe
+C:\Users\Muhammed\Documents\C#\text\bin\Debug\net8.0\text.deps.json
+C:\Users\Muhammed\Documents\C#\text\bin\Debug\net8.0\text.runtimeconfig.json
+C:\Users\Muhammed\Documents\C#\text\bin\Debug\net8.0\text.dll
+C:\Users\Muhammed\Documents\C#\text\bin\Debug\net8.0\text.pdb
+C:\Users\Muhammed\Documents\C#\text\obj\Debug\net8.0\text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed\Documents\C#\text\obj\Debug\net8.0\text.AssemblyInfoInputs.cache
+C:\Users\Muhammed\Documents\C#\text\obj\Debug\net8.0\text.AssemblyInfo.cs
+C:\Users\Muhammed\Documents\C#\text\obj\Debug\net8.0\text.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Documents\C#\text\obj\Debug\net8.0\text.dll
+C:\Users\Muhammed\Documents\C#\text\obj\Debug\net8.0\refint\text.dll
+C:\Users\Muhammed\Documents\C#\text\obj\Debug\net8.0\text.pdb
+C:\Users\Muhammed\Documents\C#\text\obj\Debug\net8.0\text.genruntimeconfig.cache
+C:\Users\Muhammed\Documents\C#\text\obj\Debug\net8.0\ref\text.dll
